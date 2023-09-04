@@ -21,7 +21,7 @@
             <h2 class="card-title text-center">Üye Ol</h2>
           </div>
           <div class="card-body">
-            <p class="card-text text-center">Bir hesabın yok mu? Hemen oluştur ve notlarını düzenleme başla.</p>
+            <p class="card-text text-center">Bir hesabın yok mu? Hemen oluştur ve notlarını düzenleme başla!</p>
             <!-- Hesap Aç düğmesi, /signup sayfasına yönlendirir -->
             <router-link to="/signup" class="btn btn-primary btn-block">Hesap Oluştur</router-link>
           </div>
